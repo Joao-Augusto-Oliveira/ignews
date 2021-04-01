@@ -6,13 +6,13 @@ Projeto (em desenvolvimento) do Programa Ignite - Trilha ReactJS - da [Rocketsea
 
 </h3>
 
+![PRINTS](./layouts/home.png)
+
 </div>
 
 ## 📚 **Sobre**
 
 O ignews é um blog de assinatura, que apresenta uma prévia do conteúdo de forma pública, enquanto que a íntegra é reservada somente aos seus assinantes. 
-
-<br>
 <br>
 
 ### 📌  **Tecnologias utilizadas**
@@ -23,7 +23,6 @@ O ignews é um blog de assinatura, que apresenta uma prévia do conteúdo de for
 - PrismicCMS 
 - OAuth 
 
-<br>
 <br>
 
 ### 🚀 **Mão na massa**

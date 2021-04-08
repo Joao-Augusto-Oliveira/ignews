@@ -22,6 +22,7 @@ O ignews é um blog de assinatura, que apresenta uma prévia do conteúdo de for
 - FaunaDB 
 - PrismicCMS 
 - OAuth 
+- Axios
 
 <br>
 

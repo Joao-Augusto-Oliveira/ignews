@@ -2,17 +2,18 @@
 
 <h3>
 
-Projeto (em desenvolvimento) do Programa Ignite - Trilha ReactJS - da [Rocketseat], com **NextJS**, **Typescript** e **Sass**.
+Projeto desenvolvido no Programa Ignite - Trilha ReactJS - da [Rocketseat], com **NextJS**, **Typescript** e **Sass**.
 
 </h3>
 
-![PRINTS](./layouts/home.png)
+![PRINTS](./layouts/home.gif)
 
 </div>
 
 ## 📚 **Sobre**
 
 O ignews é um blog de assinatura, que apresenta uma prévia do conteúdo de forma pública, enquanto que a íntegra é reservada somente aos seus assinantes. 
+<br>
 <br>
 
 ### 📌  **Tecnologias utilizadas**
